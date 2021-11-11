@@ -6,7 +6,7 @@
 
 * GitHub username: JonathanDog
 
-* Notes:
+* Notes: Tested Task A,B,C with DocTest in test.cpp. Did not test task D as you cannot see if the memory was deallocated. Tested task F (Bonus Task) in main.cpp
 
 
 
