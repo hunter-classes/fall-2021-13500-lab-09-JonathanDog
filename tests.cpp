@@ -8,7 +8,7 @@
 TEST_CASE("Testing Task A Length") {
 	Coord3D pointP = {10, 20, 30};
 	double answer = int(length(&pointP) * 10000) / double(10000);
-	CHECK(answer == double(37.41655));
+	CHECK(answer == double(37.4165));
 
 	Coord3D pointX = {5, 8, 10};
 	answer = int(length(&pointX) * 10000) / double(10000);
